@@ -2,9 +2,9 @@
 
 Working with an ultimate **'why'** constantly replaying on my mind daily  is the reason why I wake up and code...I am a Tech ethusiast and a reliable Frontend Developer with exceptional skills in
 
-- HTML
-- CSS
-- Javascript
+- **HTML**
+- **CSS**
+- **Javascript**
 
   ### Things you should know about me 😍
 
