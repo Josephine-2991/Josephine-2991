@@ -6,7 +6,7 @@ Working with an ultimate **'why'** constantly replaying on my mind daily  is the
 - CSS
 - Javascript
 
-  ## Things you should know about me 😍
+  ### Things you should know about me 😍
 
 - 🔭 I’m currently working on open source project
 - 🌱 I’m currently learning Javascript and React
