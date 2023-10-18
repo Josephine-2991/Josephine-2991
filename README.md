@@ -8,11 +8,11 @@ Working with an ultimate **'why'** constantly replaying on my **mind** daily  is
 
   ### Things you should know about me 😍
 
-- 🔭 I’m currently working on open source project
-- 🌱 I’m currently learning Javascript and React
-- 👯 I’m looking to collaborate on other developers (Front-end and Back-end developers)
-- 🤔 I’m looking for help with my open source project
-- 💬 Ask me about frontend development technologies like HTML, CSS and Javascript
+- 🔭 I’m currently working on Open Source Project
+- 🌱 I’m currently learning *Javascript* and *React*
+- 👯 I’m looking to collaborate with other developers (Front-end and Back-end developers)
+- 🤔 I’m looking for help with my Open Source Project
+- 💬 Ask me about frontend development technologies like *HTML, CSS and Javascript*
 - 📫 How to reach me: ohwifojosephine@gmail.com
 - 😄 Pronouns: She/ her
 - ⚡ Fun fact: I 😍 coding 💻, networking 🤝, productive researching 🔎🔎, playing educative games 🎮🎯🎲
